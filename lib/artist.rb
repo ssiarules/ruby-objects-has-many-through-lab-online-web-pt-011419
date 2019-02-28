@@ -21,3 +21,4 @@ end
 #     Appointment.new(date, patient, self)
 #     self.appointments
 #   end
+#
